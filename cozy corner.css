@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #D8BFD8;
+    color: #333;
+    background-image: url(about-us-page.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: hue;
+}
+header {
+    background-color: #7b245d;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center ;
+}
+form {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+} 
+/* #home, #about {
+    width: 1600px;
+    height: 570px;
+    background-color: #D8BFD8 ;
+    margin: 10px auto;
+    background-image: url("pngtree-summer-atmosphere-restaurant-supermarket-vegetable-psd-layered-promotion-background-picture-image_1098004.jpg");
+    background-size: cover;
+} */
+
+#menu-item {
+    display: flex;
+    justify-content: space-evenly;   
+}
+/* #contact {
+    width: 1600px;
+    height: ;
+    background-color: #D8BFD8 ;
+    margin: 10px auto;
+    background-image: url("download\ \(3\).jpeg");
+    background-size: cover;
+} */
+#img:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7);
+    cursor: pointer;
+    border-radius: 5%;
+}
+.none {
+    height: 400px;
+    width: 800px;
+    margin-left: 300px;
+}
+.none:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    border-radius: 1%;
+}
+#theme {
+    height: 200px;
+    width: 400px;
+    margin-left: 550px;
+}
