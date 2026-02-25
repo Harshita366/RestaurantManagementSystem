@@ -12,6 +12,7 @@ This project was originally developed during my second year of B.Tech CSE while 
 ![Menu Page](screenshot/menupage.png)
 ![Contact Page](screenshot/contactpage.png)
 
+---
 
 ## 🚀 Features
 
