@@ -6,6 +6,13 @@ This project was originally developed during my second year of B.Tech CSE while 
 
 ---
 
+## 📸 Project Preview
+
+![Home Page](screenshot/homepage.png)
+![Menu Page](screenshot/menupage.png)
+![Contact Page](screenshot/contactpage.png)
+
+
 ## 🚀 Features
 
 - Home Page
