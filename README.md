@@ -8,9 +8,9 @@ This project was originally developed during my second year of B.Tech CSE while 
 
 ## 📸 Project Preview
 
-![Home Page](screenshot/home-page.png)
-![Menu Page](screenshot/menu-page.png)
-![Contact Page](screenshot/contact-page.png)
+![Home Page](https://github.com/Harshita366/RestaurantManagementSystem/blob/main/Screenshot/home-page.png)
+![Menu Page](https://github.com/Harshita366/RestaurantManagementSystem/blob/main/Screenshot/menu-page.png)
+![Contact Page](https://github.com/Harshita366/RestaurantManagementSystem/blob/main/Screenshot/contact-page.png)
 
 ---
 
